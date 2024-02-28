@@ -1,0 +1,10 @@
+{
+    "snATAC.is_PE" : true,
+    "snATAC.do_trim_for_5" : true,
+    "snATAC.origin_read1" : "/work/xulab/xulab-seq/lsr/snATAC_test/P-single-Q5_raw_1.fq",
+    "snATAC.origin_read2" : "/work/xulab/xulab-seq/lsr/snATAC_test/P-single-Q5_raw_2.fq.gz",
+    "snATAC.adapter_5_len" : [5],
+    "snATAC.do_QCcheck" : false,
+    "snATAC.sample_name" : "test1",
+    "snATAC.cut_5_mode" : "R1R2"
+}

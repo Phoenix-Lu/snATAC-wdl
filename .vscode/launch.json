@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File with Arguments",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": ["--bam_file", "../filter_test/filter_all_filtered_sorted.bam", "--do_atac_shift", "--sample_name", "bedbed", "--pair_ends"],
+             "cwd" :"/share/home/lushaorong/work/snATAC-dev/dev/bed_test"
+        }
+    ]
+}
